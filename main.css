@@ -1,0 +1,87 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(IMG/Mordekaiser_0.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+img{
+    width: 5%;
+}
+
+#tela-login{
+    margin: 0 auto;
+    width: 20%;
+    margin-top: 5%;
+    background-color: white;
+    padding: 1.5em;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#login input{
+    display: block;
+    margin: 0 auto;
+    width: 25em;
+    line-height: 4em;
+    padding-left: 2em;
+    margin-top: 1em;
+    background-color: rgb(247, 247, 247);
+    border: 1px solid rgb(231, 231, 231);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.login-alternativo{
+    width: 21.5em;
+    margin: 0 auto;
+    margin-top: 1em; 
+}
+
+.login-alternativo button{
+    margin-left: 0.3em;
+    width: 8em;
+    height: 3em;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 8%;
+}
+
+.login-alternativo .b1{
+    background-color: rgb(19, 121, 255);
+}
+
+.login-alternativo .b2{
+    background-color: white;
+    margin-left: 5px;
+}
+
+.login-alternativo .b3{
+    background-color: black;
+    margin-left: 5px;
+}
+
+.botao button{
+    width: 6em;
+    height: 6em;
+    margin:auto;
+    margin-top: 3em;
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 20%;
+    background-color: white;
+    display: block;
+}
+
+.nao-login{
+    margin-top: 3em;
+}
+
+.nao-login a{
+    display: block;
+    margin-left:0px;
+    text-align: center;
+    text-decoration: none;
+    color: #ccc;
+}
+
